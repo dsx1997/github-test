@@ -5,3 +5,7 @@ function qwer () {
 function second () {
     return 'second';
 }
+
+function third () {
+    return 'third';
+}
